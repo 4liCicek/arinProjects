@@ -1,0 +1,50 @@
+{
+    "movies": [
+        {
+          "id": 1,
+          "name": "The Flash",
+          "rating": 8.3,
+          "overview":
+            "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero, laudantium.",
+          "imageURL": "https://picsum.photos/id/100/200/300"
+        },
+    
+        {
+          "id": 2,
+          "name": "The Ball",
+          "rating": 5.3,
+          "overview":
+            "Lorem ipsum dolor sit amet. Lorem Lorem ipsum dolor sit amet. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt, sed! ipsum dolor sit .",
+          "imageURL": "https://picsum.photos/id/27/200/300"
+        },
+    
+        {
+          "id": 3,
+          "name": "The Tree",
+          "rating": 9.3,
+          "overview":
+            "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, laboriosam. Libero, laudantium.",
+          "imageURL": "https://picsum.photos/id/37/200/300"
+        },
+    
+        {
+          "id": 4,
+          "name": "The Taxi",
+          "rating": 9.9,
+          "overview":
+            "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, laboriosam. Libero, laudantium.",
+          "imageURL": "https://picsum.photos/id/370/200/300"
+        },
+    
+        {
+          "id": 5,
+          "name": "The Train",
+          "rating": 1.3,
+          "overview":
+            "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, laboriosam. Libero, laudantium.",
+          "imageURL": "https://picsum.photos/id/375/200/300"
+        }
+    
+       
+      ]
+}
